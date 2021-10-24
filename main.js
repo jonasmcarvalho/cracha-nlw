@@ -3,7 +3,7 @@ const linksSocialMedia = {
     youtube: 'channel/UCqLeXR,dARtCBln3bHCJbojw',
     facebook: 'jonas.carvalho',
     instagram: 'carvalhojonas_',
-    twitter: 'maykbrito'
+    twitter: 'JonasCa86037080'
 }
 
 function changeSocialMediaLinks() {
